@@ -1,0 +1,14 @@
+{
+  "name": "knack-public-api-wrapper",
+  "version": "1.0.0",
+  "description": "This library provides a simple way to make requests to the Knack API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
